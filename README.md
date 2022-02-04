@@ -1,3 +1,24 @@
+# School Payment Management System in Java
+Creating a School Payment Management System in JAVA - Core java
+
+## Project Specification
+
+- Manage everything about school's fund
+- Basically a Money management System for Teachers, Students and the School
+- We have to keep a track of student fees and teacher's salary
+
+## Project Aim
+
+- Object Oriented Programming in JAVA
+- Building Java Applications
+- Fundamental Java programming Concepts
+- Java School Funds Management System
+- Classes and Objects in Java with Example
+- 
+## Required Tools:
+1. JDK
+2. IDE - vscode
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
