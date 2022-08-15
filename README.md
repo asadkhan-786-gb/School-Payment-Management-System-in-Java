@@ -14,7 +14,8 @@ Creating a School Payment Management System in JAVA - Core java
 - Fundamental Java programming Concepts
 - Java School Funds Management System
 - Classes and Objects in Java with Example
-- 
+
+
 ## Required Tools:
 1. JDK
 2. IDE - vscode
